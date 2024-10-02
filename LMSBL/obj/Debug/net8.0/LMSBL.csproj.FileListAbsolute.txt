@@ -1,0 +1,11 @@
+D:\C#\LMS\LMS\LMSBL\bin\Debug\net8.0\LMSBL.deps.json
+D:\C#\LMS\LMS\LMSBL\bin\Debug\net8.0\LMSBL.dll
+D:\C#\LMS\LMS\LMSBL\bin\Debug\net8.0\LMSBL.pdb
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.AssemblyInfoInputs.cache
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.AssemblyInfo.cs
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.csproj.CoreCompileInputs.cache
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.dll
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\refint\LMSBL.dll
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\LMSBL.pdb
+D:\C#\LMS\LMS\LMSBL\obj\Debug\net8.0\ref\LMSBL.dll
